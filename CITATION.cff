@@ -5,7 +5,7 @@ title: "gradient-descent-sgd-solver-course"
 
 version: "0.1.0"
 
-doi: "10.5281/zenodo.18820265"
+doi: "10.5281/zenodo.18820824"
 
 date-released: "2026-03-01"
 
@@ -36,7 +36,7 @@ abstract: >
 
 preferred-citation:
   type: report
-  doi: "10.5281/zenodo.18820265"
+  doi: "10.5281/zenodo.18820824"
   title: "gradient-descent-sgd-solver-course"
   authors:
     - family-names: "Senatorov"
