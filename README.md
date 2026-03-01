@@ -132,7 +132,8 @@ gradient-descent-sgd-solver/
 │
 └── index.html
 
-````id="struct1"
+
+``` 
 
 Clean structure improves:
 
@@ -196,10 +197,4 @@ plt.title("Convergence")
 plt.show()
 ```
 
-Visualization increases:
 
-✅ Engagement
-✅ Portfolio value
-✅ Google image indexing
-
----
