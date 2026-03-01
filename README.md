@@ -1,4 +1,4 @@
-# https://stepik.org/a/245654
+# stepik: https://stepik.org/a/245654
 
 # Gradient Descent & SGD Solver — Course Implementation
 
