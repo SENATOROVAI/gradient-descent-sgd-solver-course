@@ -1,4 +1,4 @@
-# stepik: https://stepik.org/a/245654
+#### https://SenatorovAI.com
 
 # Gradient Descent & SGD Solver — Course Implementation
 
